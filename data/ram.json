@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ram-001",
+    "type": "ram",
+    "name": "G.Skill Trident Z5 RGB 32GB (2x16GB) DDR5-6000",
+    "brand": "G.Skill",
+    "benchmarkScore": 90,
+    "price": 119,
+    "tdp": 8,
+    "releaseYear": 2023,
+    "tier": "highend",
+    "specs": { "capacity": 32, "type": "DDR5", "speed": 6000, "modules": "2x16GB", "cas": 30, "voltage": 1.35 }
+  },
+  {
+    "id": "ram-002",
+    "type": "ram",
+    "name": "Corsair Vengeance 32GB (2x16GB) DDR5-5600",
+    "brand": "Corsair",
+    "benchmarkScore": 82,
+    "price": 94,
+    "tdp": 8,
+    "releaseYear": 2023,
+    "tier": "midrange",
+    "specs": { "capacity": 32, "type": "DDR5", "speed": 5600, "modules": "2x16GB", "cas": 36, "voltage": 1.25 }
+  },
+  {
+    "id": "ram-003",
+    "type": "ram",
+    "name": "Kingston Fury Beast 16GB (2x8GB) DDR5-5200",
+    "brand": "Kingston",
+    "benchmarkScore": 68,
+    "price": 59,
+    "tdp": 6,
+    "releaseYear": 2023,
+    "tier": "budget",
+    "specs": { "capacity": 16, "type": "DDR5", "speed": 5200, "modules": "2x8GB", "cas": 40, "voltage": 1.25 }
+  },
+  {
+    "id": "ram-004",
+    "type": "ram",
+    "name": "G.Skill Trident Z5 64GB (2x32GB) DDR5-6400",
+    "brand": "G.Skill",
+    "benchmarkScore": 95,
+    "price": 209,
+    "tdp": 10,
+    "releaseYear": 2024,
+    "tier": "enthusiast",
+    "specs": { "capacity": 64, "type": "DDR5", "speed": 6400, "modules": "2x32GB", "cas": 32, "voltage": 1.4 }
+  },
+  {
+    "id": "ram-005",
+    "type": "ram",
+    "name": "Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200",
+    "brand": "Corsair",
+    "benchmarkScore": 50,
+    "price": 39,
+    "tdp": 5,
+    "releaseYear": 2020,
+    "tier": "budget",
+    "specs": { "capacity": 16, "type": "DDR4", "speed": 3200, "modules": "2x8GB", "cas": 16, "voltage": 1.35 }
+  },
+  {
+    "id": "ram-006",
+    "type": "ram",
+    "name": "G.Skill Ripjaws V 32GB (2x16GB) DDR4-3600",
+    "brand": "G.Skill",
+    "benchmarkScore": 60,
+    "price": 59,
+    "tdp": 5,
+    "releaseYear": 2021,
+    "tier": "midrange",
+    "specs": { "capacity": 32, "type": "DDR4", "speed": 3600, "modules": "2x16GB", "cas": 18, "voltage": 1.35 }
+  },
+  {
+    "id": "ram-007",
+    "type": "ram",
+    "name": "Corsair Dominator Platinum RGB 64GB (2x32GB) DDR5-7200",
+    "brand": "Corsair",
+    "benchmarkScore": 97,
+    "price": 339,
+    "tdp": 12,
+    "releaseYear": 2024,
+    "tier": "enthusiast",
+    "specs": { "capacity": 64, "type": "DDR5", "speed": 7200, "modules": "2x32GB", "cas": 34, "voltage": 1.45 }
+  }
+]

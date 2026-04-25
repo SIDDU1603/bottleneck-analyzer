@@ -1,0 +1,74 @@
+[
+  {
+    "id": "psu-001",
+    "type": "psu",
+    "name": "Corsair RM1000x (2024)",
+    "brand": "Corsair",
+    "benchmarkScore": 95,
+    "price": 189,
+    "tdp": 0,
+    "releaseYear": 2024,
+    "tier": "enthusiast",
+    "specs": { "wattage": 1000, "efficiency": "80+ Gold", "modular": "Full", "fanSize": 135, "connectors": { "eps": 2, "pcie8pin": 4, "pcie12vhpwr": 1, "sata": 12 } }
+  },
+  {
+    "id": "psu-002",
+    "type": "psu",
+    "name": "Corsair RM850x",
+    "brand": "Corsair",
+    "benchmarkScore": 88,
+    "price": 139,
+    "tdp": 0,
+    "releaseYear": 2023,
+    "tier": "highend",
+    "specs": { "wattage": 850, "efficiency": "80+ Gold", "modular": "Full", "fanSize": 135, "connectors": { "eps": 2, "pcie8pin": 4, "pcie12vhpwr": 1, "sata": 10 } }
+  },
+  {
+    "id": "psu-003",
+    "type": "psu",
+    "name": "EVGA SuperNOVA 750 G7",
+    "brand": "EVGA",
+    "benchmarkScore": 78,
+    "price": 109,
+    "tdp": 0,
+    "releaseYear": 2022,
+    "tier": "midrange",
+    "specs": { "wattage": 750, "efficiency": "80+ Gold", "modular": "Full", "fanSize": 130, "connectors": { "eps": 2, "pcie8pin": 3, "pcie12vhpwr": 0, "sata": 9 } }
+  },
+  {
+    "id": "psu-004",
+    "type": "psu",
+    "name": "Corsair CV650",
+    "brand": "Corsair",
+    "benchmarkScore": 50,
+    "price": 59,
+    "tdp": 0,
+    "releaseYear": 2021,
+    "tier": "budget",
+    "specs": { "wattage": 650, "efficiency": "80+ Bronze", "modular": "Non-Modular", "fanSize": 120, "connectors": { "eps": 1, "pcie8pin": 2, "pcie12vhpwr": 0, "sata": 6 } }
+  },
+  {
+    "id": "psu-005",
+    "type": "psu",
+    "name": "Thermaltake Smart 500W",
+    "brand": "Thermaltake",
+    "benchmarkScore": 30,
+    "price": 39,
+    "tdp": 0,
+    "releaseYear": 2020,
+    "tier": "budget",
+    "specs": { "wattage": 500, "efficiency": "80+ White", "modular": "Non-Modular", "fanSize": 120, "connectors": { "eps": 1, "pcie8pin": 1, "pcie12vhpwr": 0, "sata": 4 } }
+  },
+  {
+    "id": "psu-006",
+    "type": "psu",
+    "name": "be quiet! Dark Power Pro 13 1300W",
+    "brand": "be quiet!",
+    "benchmarkScore": 98,
+    "price": 329,
+    "tdp": 0,
+    "releaseYear": 2024,
+    "tier": "enthusiast",
+    "specs": { "wattage": 1300, "efficiency": "80+ Titanium", "modular": "Full", "fanSize": 135, "connectors": { "eps": 2, "pcie8pin": 6, "pcie12vhpwr": 1, "sata": 16 } }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "cpu-001",
+    "type": "cpu",
+    "name": "Intel Core i9-14900K",
+    "brand": "Intel",
+    "benchmarkScore": 95,
+    "price": 549,
+    "tdp": 253,
+    "releaseYear": 2023,
+    "tier": "enthusiast",
+    "specs": {
+      "cores": 24,
+      "threads": 32,
+      "baseClock": 3.2,
+      "boostClock": 6.0,
+      "socket": "LGA 1700",
+      "generation": "14th Gen",
+      "integratedGraphics": true,
+      "cacheL3": 36
+    }
+  },
+  {
+    "id": "cpu-002",
+    "type": "cpu",
+    "name": "Intel Core i7-14700K",
+    "brand": "Intel",
+    "benchmarkScore": 85,
+    "price": 399,
+    "tdp": 253,
+    "releaseYear": 2023,
+    "tier": "highend",
+    "specs": {
+      "cores": 20,
+      "threads": 28,
+      "baseClock": 3.4,
+      "boostClock": 5.6,
+      "socket": "LGA 1700",
+      "generation": "14th Gen",
+      "integratedGraphics": true,
+      "cacheL3": 33
+    }
+  },
+  {
+    "id": "cpu-003",
+    "type": "cpu",
+    "name": "Intel Core i5-14600K",
+    "brand": "Intel",
+    "benchmarkScore": 72,
+    "price": 299,
+    "tdp": 181,
+    "releaseYear": 2023,
+    "tier": "midrange",
+    "specs": {
+      "cores": 14,
+      "threads": 20,
+      "baseClock": 3.5,
+      "boostClock": 5.3,
+      "socket": "LGA 1700",
+      "generation": "14th Gen",
+      "integratedGraphics": true,
+      "cacheL3": 24
+    }
+  },
+  {
+    "id": "cpu-004",
+    "type": "cpu",
+    "name": "Intel Core i3-14100",
+    "brand": "Intel",
+    "benchmarkScore": 48,
+    "price": 134,
+    "tdp": 110,
+    "releaseYear": 2024,
+    "tier": "budget",
+    "specs": {
+      "cores": 4,
+      "threads": 8,
+      "baseClock": 3.5,
+      "boostClock": 4.7,
+      "socket": "LGA 1700",
+      "generation": "14th Gen",
+      "integratedGraphics": true,
+      "cacheL3": 12
+    }
+  },
+  {
+    "id": "cpu-005",
+    "type": "cpu",
+    "name": "AMD Ryzen 9 7950X",
+    "brand": "AMD",
+    "benchmarkScore": 96,
+    "price": 549,
+    "tdp": 170,
+    "releaseYear": 2022,
+    "tier": "enthusiast",
+    "specs": {
+      "cores": 16,
+      "threads": 32,
+      "baseClock": 4.5,
+      "boostClock": 5.7,
+      "socket": "AM5",
+      "generation": "Zen 4",
+      "integratedGraphics": true,
+      "cacheL3": 64
+    }
+  },
+  {
+    "id": "cpu-006",
+    "type": "cpu",
+    "name": "AMD Ryzen 7 7800X3D",
+    "brand": "AMD",
+    "benchmarkScore": 88,
+    "price": 369,
+    "tdp": 120,
+    "releaseYear": 2023,
+    "tier": "highend",
+    "specs": {
+      "cores": 8,
+      "threads": 16,
+      "baseClock": 4.2,
+      "boostClock": 5.0,
+      "socket": "AM5",
+      "generation": "Zen 4 3D V-Cache",
+      "integratedGraphics": true,
+      "cacheL3": 96
+    }
+  },
+  {
+    "id": "cpu-007",
+    "type": "cpu",
+    "name": "AMD Ryzen 5 7600X",
+    "brand": "AMD",
+    "benchmarkScore": 70,
+    "price": 229,
+    "tdp": 105,
+    "releaseYear": 2022,
+    "tier": "midrange",
+    "specs": {
+      "cores": 6,
+      "threads": 12,
+      "baseClock": 4.7,
+      "boostClock": 5.3,
+      "socket": "AM5",
+      "generation": "Zen 4",
+      "integratedGraphics": true,
+      "cacheL3": 32
+    }
+  },
+  {
+    "id": "cpu-008",
+    "type": "cpu",
+    "name": "AMD Ryzen 5 5600X",
+    "brand": "AMD",
+    "benchmarkScore": 55,
+    "price": 159,
+    "tdp": 65,
+    "releaseYear": 2020,
+    "tier": "midrange",
+    "specs": {
+      "cores": 6,
+      "threads": 12,
+      "baseClock": 3.7,
+      "boostClock": 4.6,
+      "socket": "AM4",
+      "generation": "Zen 3",
+      "integratedGraphics": false,
+      "cacheL3": 32
+    }
+  },
+  {
+    "id": "cpu-009",
+    "type": "cpu",
+    "name": "Intel Core i5-12400F",
+    "brand": "Intel",
+    "benchmarkScore": 52,
+    "price": 149,
+    "tdp": 117,
+    "releaseYear": 2022,
+    "tier": "budget",
+    "specs": {
+      "cores": 6,
+      "threads": 12,
+      "baseClock": 2.5,
+      "boostClock": 4.4,
+      "socket": "LGA 1700",
+      "generation": "12th Gen",
+      "integratedGraphics": false,
+      "cacheL3": 18
+    }
+  },
+  {
+    "id": "cpu-010",
+    "type": "cpu",
+    "name": "AMD Ryzen 9 7900X",
+    "brand": "AMD",
+    "benchmarkScore": 90,
+    "price": 399,
+    "tdp": 170,
+    "releaseYear": 2022,
+    "tier": "highend",
+    "specs": {
+      "cores": 12,
+      "threads": 24,
+      "baseClock": 4.7,
+      "boostClock": 5.6,
+      "socket": "AM5",
+      "generation": "Zen 4",
+      "integratedGraphics": true,
+      "cacheL3": 64
+    }
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "id": "gpu-001",
+    "type": "gpu",
+    "name": "NVIDIA RTX 4090",
+    "brand": "NVIDIA",
+    "benchmarkScore": 99,
+    "price": 1599,
+    "tdp": 450,
+    "releaseYear": 2022,
+    "tier": "enthusiast",
+    "specs": {
+      "vram": 24,
+      "vramType": "GDDR6X",
+      "baseClock": 2.23,
+      "boostClock": 2.52,
+      "busWidth": 384,
+      "pciGen": "PCIe 4.0",
+      "cudaCores": 16384,
+      "rtCores": 128
+    }
+  },
+  {
+    "id": "gpu-002",
+    "type": "gpu",
+    "name": "NVIDIA RTX 4080 SUPER",
+    "brand": "NVIDIA",
+    "benchmarkScore": 88,
+    "price": 999,
+    "tdp": 320,
+    "releaseYear": 2024,
+    "tier": "enthusiast",
+    "specs": {
+      "vram": 16,
+      "vramType": "GDDR6X",
+      "baseClock": 2.29,
+      "boostClock": 2.55,
+      "busWidth": 256,
+      "pciGen": "PCIe 4.0",
+      "cudaCores": 10240,
+      "rtCores": 80
+    }
+  },
+  {
+    "id": "gpu-003",
+    "type": "gpu",
+    "name": "NVIDIA RTX 4070 Ti SUPER",
+    "brand": "NVIDIA",
+    "benchmarkScore": 80,
+    "price": 799,
+    "tdp": 285,
+    "releaseYear": 2024,
+    "tier": "highend",
+    "specs": {
+      "vram": 16,
+      "vramType": "GDDR6X",
+      "baseClock": 2.34,
+      "boostClock": 2.61,
+      "busWidth": 256,
+      "pciGen": "PCIe 4.0",
+      "cudaCores": 8448,
+      "rtCores": 66
+    }
+  },
+  {
+    "id": "gpu-004",
+    "type": "gpu",
+    "name": "NVIDIA RTX 4070 SUPER",
+    "brand": "NVIDIA",
+    "benchmarkScore": 73,
+    "price": 599,
+    "tdp": 220,
+    "releaseYear": 2024,
+    "tier": "highend",
+    "specs": {
+      "vram": 12,
+      "vramType": "GDDR6X",
+      "baseClock": 1.98,
+      "boostClock": 2.48,
+      "busWidth": 192,
+      "pciGen": "PCIe 4.0",
+      "cudaCores": 7168,
+      "rtCores": 56
+    }
+  },
+  {
+    "id": "gpu-005",
+    "type": "gpu",
+    "name": "NVIDIA RTX 4060 Ti",
+    "brand": "NVIDIA",
+    "benchmarkScore": 62,
+    "price": 399,
+    "tdp": 160,
+    "releaseYear": 2023,
+    "tier": "midrange",
+    "specs": {
+      "vram": 8,
+      "vramType": "GDDR6",
+      "baseClock": 2.31,
+      "boostClock": 2.54,
+      "busWidth": 128,
+      "pciGen": "PCIe 4.0",
+      "cudaCores": 4352,
+      "rtCores": 34
+    }
+  },
+  {
+    "id": "gpu-006",
+    "type": "gpu",
+    "name": "NVIDIA RTX 4060",
+    "brand": "NVIDIA",
+    "benchmarkScore": 52,
+    "price": 299,
+    "tdp": 115,
+    "releaseYear": 2023,
+    "tier": "midrange",
+    "specs": {
+      "vram": 8,
+      "vramType": "GDDR6",
+      "baseClock": 1.83,
+      "boostClock": 2.46,
+      "busWidth": 128,
+      "pciGen": "PCIe 4.0",
+      "cudaCores": 3072,
+      "rtCores": 24
+    }
+  },
+  {
+    "id": "gpu-007",
+    "type": "gpu",
+    "name": "AMD Radeon RX 7900 XTX",
+    "brand": "AMD",
+    "benchmarkScore": 90,
+    "price": 899,
+    "tdp": 355,
+    "releaseYear": 2022,
+    "tier": "enthusiast",
+    "specs": {
+      "vram": 24,
+      "vramType": "GDDR6",
+      "baseClock": 1.9,
+      "boostClock": 2.5,
+      "busWidth": 384,
+      "pciGen": "PCIe 4.0",
+      "streamProcessors": 6144
+    }
+  },
+  {
+    "id": "gpu-008",
+    "type": "gpu",
+    "name": "AMD Radeon RX 7800 XT",
+    "brand": "AMD",
+    "benchmarkScore": 70,
+    "price": 479,
+    "tdp": 263,
+    "releaseYear": 2023,
+    "tier": "highend",
+    "specs": {
+      "vram": 16,
+      "vramType": "GDDR6",
+      "baseClock": 1.3,
+      "boostClock": 2.43,
+      "busWidth": 256,
+      "pciGen": "PCIe 4.0",
+      "streamProcessors": 3840
+    }
+  },
+  {
+    "id": "gpu-009",
+    "type": "gpu",
+    "name": "AMD Radeon RX 7600",
+    "brand": "AMD",
+    "benchmarkScore": 48,
+    "price": 249,
+    "tdp": 165,
+    "releaseYear": 2023,
+    "tier": "midrange",
+    "specs": {
+      "vram": 8,
+      "vramType": "GDDR6",
+      "baseClock": 1.72,
+      "boostClock": 2.66,
+      "busWidth": 128,
+      "pciGen": "PCIe 4.0",
+      "streamProcessors": 2048
+    }
+  },
+  {
+    "id": "gpu-010",
+    "type": "gpu",
+    "name": "NVIDIA GTX 1660 SUPER",
+    "brand": "NVIDIA",
+    "benchmarkScore": 30,
+    "price": 229,
+    "tdp": 125,
+    "releaseYear": 2019,
+    "tier": "budget",
+    "specs": {
+      "vram": 6,
+      "vramType": "GDDR6",
+      "baseClock": 1.53,
+      "boostClock": 1.79,
+      "busWidth": 192,
+      "pciGen": "PCIe 3.0",
+      "cudaCores": 1408
+    }
+  }
+]

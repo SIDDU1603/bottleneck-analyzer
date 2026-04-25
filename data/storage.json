@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sto-001",
+    "type": "storage",
+    "name": "Samsung 990 Pro 2TB NVMe",
+    "brand": "Samsung",
+    "benchmarkScore": 95,
+    "price": 169,
+    "tdp": 8,
+    "releaseYear": 2023,
+    "tier": "enthusiast",
+    "specs": { "capacity": 2000, "interface": "NVMe PCIe 4.0", "formFactor": "M.2", "readSpeed": 7450, "writeSpeed": 6900, "tbw": 1200 }
+  },
+  {
+    "id": "sto-002",
+    "type": "storage",
+    "name": "WD Black SN850X 1TB NVMe",
+    "brand": "Western Digital",
+    "benchmarkScore": 88,
+    "price": 89,
+    "tdp": 7,
+    "releaseYear": 2023,
+    "tier": "highend",
+    "specs": { "capacity": 1000, "interface": "NVMe PCIe 4.0", "formFactor": "M.2", "readSpeed": 7300, "writeSpeed": 6300, "tbw": 600 }
+  },
+  {
+    "id": "sto-003",
+    "type": "storage",
+    "name": "Kingston NV2 1TB NVMe",
+    "brand": "Kingston",
+    "benchmarkScore": 60,
+    "price": 49,
+    "tdp": 4,
+    "releaseYear": 2023,
+    "tier": "budget",
+    "specs": { "capacity": 1000, "interface": "NVMe PCIe 4.0", "formFactor": "M.2", "readSpeed": 3500, "writeSpeed": 2100, "tbw": 320 }
+  },
+  {
+    "id": "sto-004",
+    "type": "storage",
+    "name": "Samsung 870 EVO 1TB SATA SSD",
+    "brand": "Samsung",
+    "benchmarkScore": 45,
+    "price": 69,
+    "tdp": 3,
+    "releaseYear": 2021,
+    "tier": "midrange",
+    "specs": { "capacity": 1000, "interface": "SATA III", "formFactor": "2.5-inch", "readSpeed": 560, "writeSpeed": 530, "tbw": 600 }
+  },
+  {
+    "id": "sto-005",
+    "type": "storage",
+    "name": "Seagate Barracuda 2TB HDD",
+    "brand": "Seagate",
+    "benchmarkScore": 20,
+    "price": 49,
+    "tdp": 8,
+    "releaseYear": 2020,
+    "tier": "budget",
+    "specs": { "capacity": 2000, "interface": "SATA III", "formFactor": "3.5-inch", "readSpeed": 190, "writeSpeed": 190, "rpm": 7200 }
+  }
+]
