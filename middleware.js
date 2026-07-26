@@ -1,11 +1,22 @@
 import { NextResponse } from 'next/server';
-import { get } from '@vercel/edge-config';
 
 export const config = { matcher: '/welcome' };
 
 export async function middleware() {
-  const greeting = await get('greeting');
-  // NextResponse.json requires at least Next v13.1 or
-  // enabling experimental.allowMiddlewareResponseBody in next.config.js
-  return NextResponse.json(greeting);
+  let greeting = 'Welcome to Bottleneck Analyzer!';
+
+  // Use Vercel Edge Config if available, otherwise use default greeting
+  if (process.env.EDGE_CONFIG) {
+    try {
+      const { get } = await import('@vercel/edge-config');
+      const edgeGreeting = await get('greeting');
+      if (edgeGreeting) {
+        greeting = edgeGreeting;
+      }
+    } catch (error) {
+      console.warn('Edge Config unavailable, using default greeting:', error.message);
+    }
+  }
+
+  return NextResponse.json({ greeting });
 }
